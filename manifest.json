@@ -1,4 +1,12 @@
 {
+  "components": {
+    "ffmpeg": {
+      "description": "Extraction audio des fichiers vidéo",
+      "file": "ffmpeg.zip",
+      "sha256": "51eee05d008acb4a9d6fb281c06287b8d865f8115e922caf47fd27e37184cf42",
+      "size": 31052034
+    }
+  },
   "files": [
     {
       "path": "_internal/_asyncio.pyd",
@@ -4742,7 +4750,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "ad10260d735e73593a97079023c8ff28cb4ca947a49a50954362ccb88ebc5754",
+      "sha256": "cf2bfd4c49deae2770a3fb60a978094a5ac90a426649d3784636b0639a9114af",
       "size": 1388164
     },
     {
@@ -5097,20 +5105,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "db0cd476b44186e35fc9e96438890c67b51c0473944df552082e79523cd296ef",
-      "size": 5935577
+      "sha256": "fd151b239766787af0acac67e6e19633a9c519519a4d4cdbd0bb780f95690639",
+      "size": 5950672
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "35f14494610c5cebe13a31e550fa0021fcc5c389d9b40af079a16a7f71dd62a0",
-      "size": 2686317
+      "sha256": "89221737b823954c2f2e2d65e25aee0524203f4b49b06aaed3b37b3085a7a3ce",
+      "size": 2686724
     },
     {
       "path": "version.txt",
-      "sha256": "d01c4e9bf10ed63e0de02bdaa54ae5a279486e9125f5febcc5d8bb3fab332568",
+      "sha256": "40f334a825d2bbcb5d7bde863843250f1331e0cab30d22d6bda33e22aec2ca96",
       "size": 5
     }
   ],
-  "notes": "Test du nouveau comportement de fermeture.",
-  "version": "2.2.1"
+  "notes": "Verification des mises a jour a chaque lancement, avec ecran de chargement.\nFin de la tache planifiee quotidienne : plus fiable et moins intrusif.\nSoundboard : import de videos (mp4, mkv, webm, mov...), l'audio est extrait automatiquement.",
+  "version": "2.3.0"
 }
