@@ -4742,7 +4742,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "b7cc4e0e9bf480baa8a7a64244ae99d0e770913c8c703a5177ff9c7ad7bd74c8",
+      "sha256": "908dbb66ace953b603a37a17bed91e3b9eebb15088f217eed5e7a7c79b3001af",
       "size": 1388164
     },
     {
@@ -5097,20 +5097,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "7b9e11c01ad22612a507465f0c04194f1fdb24ec9b62e4feb017756c10c820aa",
-      "size": 5922438
+      "sha256": "6dc6b5fb84d65256fd815e1a8fa20f9a1cae3e66599e8e2a1730f8a7eaaa15fa",
+      "size": 5922846
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "12b37b9b0d8eca90a1e6d0dd882aa12ed135378e7627df8d4133c01bd8e07636",
-      "size": 2678764
+      "sha256": "344b599368ac39cdd37ae6169c5baea15e7b8e0c08619724dd2a12ab2af6821a",
+      "size": 2685265
     },
     {
       "path": "version.txt",
-      "sha256": "8248f7772687aff0b103b36898908deb82126337f933e49a5ac04829093c58ff",
+      "sha256": "35a46a442defa82ca36265889ecde77d189d9040e80c746aff175e34f91a735c",
       "size": 5
     }
   ],
-  "notes": "Refonte visuelle complete : palette, degrade et polices repris du site Game Obsession.\nBarre de titre assortie a l'app et coins arrondis.\nFond degrade violet vers bleu nuit avec champ d'etoiles.",
-  "version": "2.1.0"
+  "notes": "L'updater met desormais a jour la version affichee dans Applications installees de Windows.",
+  "version": "2.1.1"
 }
