@@ -4742,7 +4742,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "15264d10205807109bb639b6bd7017bd26cff38f1c1bda84046d681b4630678d",
+      "sha256": "6f182152fa841cd191e27dc89b9d0e1b57cd800b92148ee6791b8127b65ad3ab",
       "size": 1388164
     },
     {
@@ -5097,20 +5097,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "f44db0858adfadfada78ac5d487492c6f62b9008a991550b5fa90dca6d5e02fd",
-      "size": 5922846
+      "sha256": "57df54fea09f02c37b68818b79f26260127ae199dcdb6b0a9e1c024ffdb311fe",
+      "size": 5935576
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "328081631452e42493d93e8a44cecfcd25b193e2c93a88dbd3e5c5f1b27561b0",
-      "size": 2679857
+      "sha256": "c964a335fb7d12d2fc434fa8f7da15a2132c4f21bf8ecf4ec200f049f76097ca",
+      "size": 2686316
     },
     {
       "path": "version.txt",
-      "sha256": "24f502b1e3abfa8ea2db55a62dd09fd7be591d415b91f82af0ce90cd7a443063",
+      "sha256": "edc8e395a5182e3b231816e191b303407d511f70c1d9cb6d532927cc559c507c",
       "size": 5
     }
   ],
-  "notes": "test test\nvoir voir",
-  "version": "2.1.6"
+  "notes": "Soundboard reparé : aucun son ne pouvait sortir sur la sortie par défaut.\nRaccourcis clavier globaux : déclenche un son depuis Discord ou un jeu (clic droit sur un son).\nBouton Tester : vérifie le routage audio sans avoir besoin d'un fichier.\nL'updater demande maintenant à l'application de se fermer au lieu d'attendre en se figeant.\nNouvelle adresse de mise à jour (changement de compte GitHub).",
+  "version": "2.2.0"
 }
