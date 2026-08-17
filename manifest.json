@@ -4742,7 +4742,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "04d0c914e7a5e9487dfe0d51b420387ca5be7a5958a9ab5340a0311192a0c744",
+      "sha256": "c3c5ba12a610e926362823d15035ddea005784bf1cd115089a7f1249f78b6c70",
       "size": 1388164
     },
     {
@@ -5097,20 +5097,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "fbc61d5dda95f32a6ec0f2a55a04d292cfee186d640c9f2911687b11f810fcd4",
+      "sha256": "def18824004060acdad61d88fe6122364034109e18603077c55451ceb769750b",
       "size": 5922846
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "40c0bd9571191d2d4424e38e1e44ab460e4283bf7f09fed5296c175c8e427bc4",
+      "sha256": "928a91dd37bed8ebbdda779380ebfdffe6e1e755c2372710796bd3f3799a061e",
       "size": 2679857
     },
     {
       "path": "version.txt",
-      "sha256": "67b043df607258100936e6928d005eed6fcd168226fb8d58cd7297b77cfe6d42",
+      "sha256": "e83249202ebe23826e8c1fd216e7b38c6a074b1ca9f0c5380b59e31942094bb8",
       "size": 5
     }
   ],
-  "notes": "L'updater reporte la version dans Applications installees de Windows.",
-  "version": "2.1.4"
+  "notes": "Verification finale du canal de mise a jour.",
+  "version": "2.1.5"
 }
