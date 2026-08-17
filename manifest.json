@@ -4750,7 +4750,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "cf2bfd4c49deae2770a3fb60a978094a5ac90a426649d3784636b0639a9114af",
+      "sha256": "967c3bd5c397633d5a7b74523a1c65db79e66faf8650c0754d757eb2b25c0426",
       "size": 1388164
     },
     {
@@ -5105,20 +5105,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "fd151b239766787af0acac67e6e19633a9c519519a4d4cdbd0bb780f95690639",
-      "size": 5950672
+      "sha256": "466a585664c5eb96eb68cf362c9d2372212b7886c9b5a516c03bbb3c6494e312",
+      "size": 5952217
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "89221737b823954c2f2e2d65e25aee0524203f4b49b06aaed3b37b3085a7a3ce",
+      "sha256": "190ae2c9b0276e64eda68fad0e3f9dfa3c7d53ff40645c295b47aab8c3020e19",
       "size": 2686724
     },
     {
       "path": "version.txt",
-      "sha256": "40f334a825d2bbcb5d7bde863843250f1331e0cab30d22d6bda33e22aec2ca96",
+      "sha256": "40c9eabbd9780986bdc82c3b454f21b5de44bd230be6294c8dc5f80d11f4ddc1",
       "size": 5
     }
   ],
-  "notes": "Verification des mises a jour a chaque lancement, avec ecran de chargement.\nFin de la tache planifiee quotidienne : plus fiable et moins intrusif.\nSoundboard : import de videos (mp4, mkv, webm, mov...), l'audio est extrait automatiquement.",
-  "version": "2.3.0"
+  "notes": "Reglages : etat du composant ffmpeg et gestion du cache audio.",
+  "version": "2.3.1"
 }
