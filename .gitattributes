@@ -1,14 +1,1 @@
-# Aucune conversion, sur aucun fichier.
-#
-# Le contenu de ce dépôt est vérifié octet par octet : le manifeste contient
-# le SHA-256 de chaque fichier, et l'updater refuse tout fichier dont
-# l'empreinte ne correspond pas.
-#
-# Or git convertit par défaut les fins de ligne des fichiers qu'il considère
-# comme du texte (core.autocrlf sous Windows). Un seul LF transformé en CRLF
-# suffit à changer l'empreinte, et la mise à jour serait rejetée — avec une
-# erreur incompréhensible, très loin de sa cause.
-#
-# `-text` désactive toute normalisation : ce qui est poussé est exactement ce
-# qui sera servi.
 * -text
