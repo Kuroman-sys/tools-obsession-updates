@@ -4742,7 +4742,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "908dbb66ace953b603a37a17bed91e3b9eebb15088f217eed5e7a7c79b3001af",
+      "sha256": "cb70c3fc4632138d2865f65cc630f4e2516a96f0b1ca78f7a87b8633e2c6afca",
       "size": 1388164
     },
     {
@@ -5097,20 +5097,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "6dc6b5fb84d65256fd815e1a8fa20f9a1cae3e66599e8e2a1730f8a7eaaa15fa",
-      "size": 5922846
+      "sha256": "444dedeeb68c883a10adb4568fbac39c335bccd3d0f4691b8ea03fbe7a8b8a2a",
+      "size": 5922845
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "344b599368ac39cdd37ae6169c5baea15e7b8e0c08619724dd2a12ab2af6821a",
-      "size": 2685265
+      "sha256": "cd93b2d36ba3da0481b556f44478c9d887df9ad93e15a64d1ede53110d0f587a",
+      "size": 2685264
     },
     {
       "path": "version.txt",
-      "sha256": "35a46a442defa82ca36265889ecde77d189d9040e80c746aff175e34f91a735c",
+      "sha256": "3ffc83cc5ee682541f1eb36b1b7efbe154b2a982df8eaeeb76c5043f07a35c7d",
       "size": 5
     }
   ],
-  "notes": "L'updater met desormais a jour la version affichee dans Applications installees de Windows.",
-  "version": "2.1.1"
+  "notes": "Verification du report de version dans le registre Windows.",
+  "version": "2.1.2"
 }
