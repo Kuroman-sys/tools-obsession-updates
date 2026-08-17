@@ -4750,7 +4750,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "c74dedf1ebb4ffe54761ab7d5af8a35dff1c0e218b8a7bfc9e7bcaf4285dc5d8",
+      "sha256": "5b7c8fa62cf28931a24b4baff288e332a4d805fff651d34bddaefc244ff8c0cc",
       "size": 1388164
     },
     {
@@ -5105,20 +5105,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "66e083c31cc34574c255543fa62f5e2e8686e5c342a7c71cb53c105ac0419464",
-      "size": 6033966
+      "sha256": "66e635a85ffd466f316531ccb3de60958a047998ae3e72ed3ba7eac441062422",
+      "size": 6034078
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "7a4f0f6b2592171caa2bc8e088e82e70509bf0205fa1cf8d6f73ee48689ce4cc",
-      "size": 2688375
+      "sha256": "f386c2a20315330ec652660ad430212aebe3a292319571f975fea25ba011570d",
+      "size": 2688376
     },
     {
       "path": "version.txt",
-      "sha256": "07b7164b80b10ee59f56ad6465e3b6c2cf127bfec26fc2b71638020b19d7f5c8",
+      "sha256": "4e103ffd9a1e40c6d18d4ccc6d632df4aca6f1cd5b2ab88a343884bf7832ffb6",
       "size": 5
     }
   ],
-  "notes": "Nouvel outil Diagnostic : verifie l'installation et ta machine, et distingue un probleme de l'app d'un probleme du PC.\nReparation automatique : restaure les fichiers abimes depuis le manifeste signe.\nRapport de bug detaille, avec apercu de ce qui sera partage et anonymisation du nom d'utilisateur.\nNouvel outil Jeux : detecte les jeux en cours et leur consommation reelle (CPU, memoire, disque).\nSoundboard : volume par son a la molette, touche panique globale, recherche.\nUne mise a jour qui ne demarre pas est automatiquement annulee.\nJournal applicatif : les erreurs ne disparaissent plus en silence.",
-  "version": "2.4.0"
+  "notes": "Documentation du diagnostic, des rapports et de la detection des jeux.",
+  "version": "2.4.1"
 }
