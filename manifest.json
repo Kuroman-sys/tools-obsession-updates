@@ -4742,7 +4742,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "c3c5ba12a610e926362823d15035ddea005784bf1cd115089a7f1249f78b6c70",
+      "sha256": "15264d10205807109bb639b6bd7017bd26cff38f1c1bda84046d681b4630678d",
       "size": 1388164
     },
     {
@@ -5097,20 +5097,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "def18824004060acdad61d88fe6122364034109e18603077c55451ceb769750b",
+      "sha256": "f44db0858adfadfada78ac5d487492c6f62b9008a991550b5fa90dca6d5e02fd",
       "size": 5922846
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "928a91dd37bed8ebbdda779380ebfdffe6e1e755c2372710796bd3f3799a061e",
+      "sha256": "328081631452e42493d93e8a44cecfcd25b193e2c93a88dbd3e5c5f1b27561b0",
       "size": 2679857
     },
     {
       "path": "version.txt",
-      "sha256": "e83249202ebe23826e8c1fd216e7b38c6a074b1ca9f0c5380b59e31942094bb8",
+      "sha256": "24f502b1e3abfa8ea2db55a62dd09fd7be591d415b91f82af0ce90cd7a443063",
       "size": 5
     }
   ],
-  "notes": "Verification finale du canal de mise a jour.",
-  "version": "2.1.5"
+  "notes": "test test\nvoir voir",
+  "version": "2.1.6"
 }
