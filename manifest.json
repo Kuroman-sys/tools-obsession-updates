@@ -4750,7 +4750,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "967c3bd5c397633d5a7b74523a1c65db79e66faf8650c0754d757eb2b25c0426",
+      "sha256": "df9ca7ced5abc58aafe2479e6b0d268252fb4130a1e8ef71779081df26002170",
       "size": 1388164
     },
     {
@@ -5105,20 +5105,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "466a585664c5eb96eb68cf362c9d2372212b7886c9b5a516c03bbb3c6494e312",
+      "sha256": "1bcb7e6814968d20be081e8be445f221bc0032600c57dfb7ce15df983c3360f2",
       "size": 5952217
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "190ae2c9b0276e64eda68fad0e3f9dfa3c7d53ff40645c295b47aab8c3020e19",
+      "sha256": "0422533eea3aa496061baf80f675fefa62d5296d414a91f5f53a1c0058238a10",
       "size": 2686724
     },
     {
       "path": "version.txt",
-      "sha256": "40c9eabbd9780986bdc82c3b454f21b5de44bd230be6294c8dc5f80d11f4ddc1",
+      "sha256": "d9b9df5366456e9ce6248ed35bcdac540d227aa3569dbcdeaef3ebe91bd6a4c1",
       "size": 5
     }
   ],
-  "notes": "Reglages : etat du composant ffmpeg et gestion du cache audio.",
-  "version": "2.3.1"
+  "notes": "Test de la verification au demarrage.",
+  "version": "2.3.2"
 }
