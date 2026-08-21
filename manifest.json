@@ -4750,7 +4750,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "06fb1c4f13fc6f4eb725ec6806c7164fc2c98fbf5e429c44abdab008113c1662",
+      "sha256": "5a3db2d577ec08c407bf8243ebd264daea34dc9e2a1c294e3ea16e3de63a505c",
       "size": 1388164
     },
     {
@@ -5105,20 +5105,20 @@
     },
     {
       "path": "ToolsObsession.exe",
-      "sha256": "db8f405a268e81689280ece1c739171c333f49a8c23cb528f33ac41d3b625cac",
-      "size": 6024742
+      "sha256": "80737632520fd0d8bcf08cc025ee365b45950b474ef6113fa1f63f56b44cb46c",
+      "size": 6026222
     },
     {
       "path": "ToolsObsessionUpdater.exe",
-      "sha256": "4a09e905ef18334cf606351c0b03795a55b3eacb36b16449eb85369023b7995d",
+      "sha256": "a03094b2305d99523814e77a941d70508c14f6866c6d5e5567d0102194e15135",
       "size": 2688793
     },
     {
       "path": "version.txt",
-      "sha256": "f0ea2fc99f3b79d332baa91b88d4e4e469cb6b9f2c96669b3b4ec8f0d6f5b863",
+      "sha256": "43711a46b6e95c7e543f95f906afc1b49fbc4010a449d705ed8c7fd17fa470a3",
       "size": 5
     }
   ],
-  "notes": "L'outil Nettoyage est retire. Windows rend deja ce service (Parametres > Systeme > Stockage), et c'etait la seule fonction de l'app qui supprimait des fichiers.\nSoundboard : si un peripherique lache en pleine lecture, l'app le signale au lieu de jouer dans le vide.\nLes raccourcis clavier, les arrets d'outil et les pages en echec laissent desormais une trace dans le journal.\nPlus aucune console noire ne clignote au lancement de l'updater ou de l'installeur.",
-  "version": "2.5.0"
+  "notes": "Detection des jeux : le moteur du jeu est affiche a la place de son rapporteur de plantage.\nLes lanceurs et outils livres avec un jeu ne comptent plus comme un second jeu.\nLes sous-dossiers d'un meme titre sont regroupes en une seule ligne.",
+  "version": "2.5.1"
 }
